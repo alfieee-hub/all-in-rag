@@ -75,3 +75,6 @@ rag/
 # Generated artifacts (C3 examples)
 data/C3/search_result*
 llamaindex_index_store/
+
+# Downloaded HuggingFace models
+data/models/
